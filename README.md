@@ -10,3 +10,7 @@ Usando modelo de OnePage apresentada na pasta "Desafio" você deverá completar 
 2. Publique o projeto com **GitHub Pages**.
 3. Envie o link do projeto publicado para:
    👉 [https://almeida-cma.github.io/receber/](https://almeida-cma.github.io/receber/)
+
+   link do formulário: https://docs.google.com/forms/d/e/1FAIpQLSfNUEtNqFgl-6tONxZHEA1SY07HPj2XugLKxtZlW75YLTcrtA/viewform?usp=sharing&ouid=106071292807773863525
+
+https://docs.google.com/spreadsheets/d/1qmLJ9RQ5GMqJAIue0lAoFgbzhI8RIJmcwSaFn8KdxKc/edit?resourcekey=&gid=1401420503#gid=1401420503
